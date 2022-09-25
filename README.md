@@ -14,6 +14,10 @@ In this project, I have done data merging and data cleaning in python as well as
 
 https://www.theforage.com/modules/hzmoNKtzvAzXsEqx8/zjxeuu5mYzBuZw3fe?ref=D9gg2ESnLeyxJNQgv
 
+##Certificate
+
+[Certificate](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf0
+
 ## Authors
 
 - [@Akash Kumar Jha](https://github.com/Akash1070)
