@@ -14,9 +14,6 @@ In this project, I have done data merging and data cleaning in python as well as
 
 https://www.theforage.com/modules/hzmoNKtzvAzXsEqx8/zjxeuu5mYzBuZw3fe?ref=D9gg2ESnLeyxJNQgv
 
-##Certificate
-
-[Certificate](https://docs.google.com/viewer?url=https://github.com/Akash1070/Data-Science-Virtual-Internship-By-Accenture/blob/main/Accenture-completion_certificate.pdf)
 
 ## Authors
 
