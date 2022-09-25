@@ -16,7 +16,7 @@ https://www.theforage.com/modules/hzmoNKtzvAzXsEqx8/zjxeuu5mYzBuZw3fe?ref=D9gg2E
 
 ##Certificate
 
-[Certificate](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf0
+[Certificate](https://docs.google.com/viewer?url=https://github.com/Akash1070/Data-Science-Virtual-Internship-By-Accenture/blob/main/Accenture-completion_certificate.pdf)
 
 ## Authors
 
